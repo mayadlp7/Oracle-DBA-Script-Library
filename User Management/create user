@@ -1,1 +1,2 @@
+create user username identified by password default tablespace users temporary tablespace temp;
 
